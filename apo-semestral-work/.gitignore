@@ -1,0 +1,7 @@
+*.o
+depend
+change_me
+connect.gdb
+tileman
+.vscode/settings.json
+mzapo-root-key
